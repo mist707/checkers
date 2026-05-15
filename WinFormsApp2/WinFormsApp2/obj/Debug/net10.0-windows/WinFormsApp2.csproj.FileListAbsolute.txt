@@ -1,0 +1,16 @@
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.exe
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.deps.json
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.dll
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.pdb
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.Form1.resources
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.dll
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\refint\WinFormsApp2.dll
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.pdb
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\maxgs\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\ref\WinFormsApp2.dll
